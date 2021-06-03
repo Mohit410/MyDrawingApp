@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_brush">10dp</dimen>
+    <dimen name="medium_brush">20dp</dimen>
+    <dimen name="large_brush">30dp</dimen>
+</resources>
